@@ -13,7 +13,8 @@ main {
   grid-auto-rows: 500px;
   justify-items: center;
   /* justify-content: space-between; */
-  justify-content:space-around;
+  /* justify-content:space-around; */
+  justify-content:end;
 }
 
 h2 {
